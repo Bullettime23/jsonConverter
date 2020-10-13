@@ -1,6 +1,7 @@
 # jsonConverter
  Позволяет конвертировать коллекции объектов из JSON в табличную форму для редактировнаия и обратно. 
  Вы можете посмотреть приложение на https://bullettime23.github.io/jsonConverter/
+ Код - на https://stackblitz.com/edit/json-converter?file=src%2Fstyles.sass
  
 Проект выполнен на платформе Angular 10. Так же использует:
 -Bootstrap для стилизации шаблона
